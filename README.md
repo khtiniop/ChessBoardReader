@@ -7,3 +7,4 @@ then tallys up how much each person scored and reprints the board to look neater
 and have a cool text output.
 
 FIRST GITHUB PROGRAM! 
+go easy on me
